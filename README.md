@@ -1,4 +1,4 @@
-# Practice 2 : LaTeX
+# Practice 2 : LaTeX (Due Monday, 09/26)
 
 Set up a repo which contains the necessary folders for a statistical paper (using Anthony Zeimbakakis' template, for example). 
 
