@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex manuscript"] 1663866369 "manuscript.aux" "manuscript.bbl" "manuscript" 1663866443
+["bibtex manuscript"] 1663866825 "manuscript.aux" "manuscript.bbl" "manuscript" 1663866827
   "C:/Users/james/AppData/Local/Programs/MiKTeX/bibtex/bst/chicago/chicago.bst" 715330800 37416 2ae04276c51f11eda70770f4081293b7 ""
-  "citations.bib" 1663866441 460 2fbf3333703df051a39110a7fd623e13 ""
-  "manuscript.aux" 1663866442 1499 715fdd103318377838a844461d50ba00 "pdflatex"
+  "citations.bib" 1663866503 460 2fbf3333703df051a39110a7fd623e13 ""
+  "manuscript.aux" 1663866826 1499 cddeb42195632ea1cf5aa6eb477d9bc2 "pdflatex"
   (generated)
   "manuscript.bbl"
   "manuscript.blg"
-["pdflatex"] 1663866441 "c:/Users/james/Python-Dev/STAT_3494W/Practice_02/Manuscript/manuscript.tex" "manuscript.pdf" "manuscript" 1663866443
+["pdflatex"] 1663866826 "c:/Users/james/Python-Dev/STAT_3494W/Practice_02/Manuscript/manuscript.tex" "manuscript.pdf" "manuscript" 1663866827
   "C:/Users/james/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1663866040 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/james/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1663854444 10329961 5644b2921f9dfa963272d0003d93204f ""
   "C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233955448 1004 54797486969f23fa377b128694d548df ""
@@ -91,12 +91,12 @@
   "C:/Users/james/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/james/AppData/Local/Programs/MiKTeX/tex/latex/setspace/setspace.sty" 1324297677 22913 a27d7908fc6f0385466454a966a316eb ""
   "C:/Users/james/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/james/Python-Dev/STAT_3494W/Practice_02/Manuscript/manuscript.tex" 1663866441 4451 228f39b6e8a281b02a45019556b9e8dc ""
+  "c:/Users/james/Python-Dev/STAT_3494W/Practice_02/Manuscript/manuscript.tex" 1663866823 3966 57efdced1c98e24df4dbbf06f85e9211 ""
   "cars.pdf" 1663862504 6834 16c76b9e46603b4133be845db8a21a64 ""
-  "manuscript.aux" 1663866442 1499 715fdd103318377838a844461d50ba00 "pdflatex"
-  "manuscript.bbl" 1663866370 544 1b62b9ce7de7b83a9c5e1be4d13c29de "bibtex manuscript"
-  "manuscript.out" 1663866442 262 1f61edf67659e472faed350934b96d9a "pdflatex"
-  "manuscript.tex" 1663866441 4451 228f39b6e8a281b02a45019556b9e8dc ""
+  "manuscript.aux" 1663866826 1499 cddeb42195632ea1cf5aa6eb477d9bc2 "pdflatex"
+  "manuscript.bbl" 1663866826 544 1b62b9ce7de7b83a9c5e1be4d13c29de "bibtex manuscript"
+  "manuscript.out" 1663866826 262 1f61edf67659e472faed350934b96d9a "pdflatex"
+  "manuscript.tex" 1663866823 3966 57efdced1c98e24df4dbbf06f85e9211 ""
   (generated)
   "manuscript.aux"
   "manuscript.log"
