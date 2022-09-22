@@ -1,6 +1,13 @@
 # Fdb version 3
-["pdflatex"] 1663862573 "c:/Users/james/Python-Dev/STAT_3494W/Practice_02/Manuscript/manuscript.tex" "manuscript.pdf" "manuscript" 1663862573
-  "C:/Users/james/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1663854452 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["bibtex manuscript"] 1663865548 "manuscript.aux" "manuscript.bbl" "manuscript" 1663865550
+  "C:/Users/james/AppData/Local/Programs/MiKTeX/bibtex/bst/apacite/apacite.bst" 1374952728 146156 9d7b79dbf9d91133318126032cff8c27 ""
+  "citations.bib" 1663864600 258 b06004093119777ea41c59c55aedc995 ""
+  "manuscript.aux" 1663865549 933 02706fc522ffdaf76d0b40828a3a0bb7 "pdflatex"
+  (generated)
+  "manuscript.bbl"
+  "manuscript.blg"
+["pdflatex"] 1663865549 "c:/Users/james/Python-Dev/STAT_3494W/Practice_02/Manuscript/manuscript.tex" "manuscript.pdf" "manuscript" 1663865550
+  "C:/Users/james/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1663865293 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/james/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1663854444 10329961 5644b2921f9dfa963272d0003d93204f ""
   "C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233955448 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233955448 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -18,6 +25,7 @@
   "C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
+  "C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti12.tfm" 1136768653 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1247596667 30251 6afa5cb1d0204815a708a080681d4674 ""
@@ -27,6 +35,7 @@
   "C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
   "C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247596667 32726 39f0f9e62e84beb801509898a605dbd5 ""
   "C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1247596667 36118 fad905eba93cff5bce1e185fe980a177 ""
   "C:/Users/james/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580393758 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/james/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty" 1644000708 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
   "C:/Users/james/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifvtex.sty" 1644000708 1057 525c2192b5febbd8c1f662c9468335bb ""
@@ -36,6 +45,8 @@
   "C:/Users/james/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsmath.sty" 1655058191 88393 1adf6fa3f245270d06e3d4f8910f7fc5 ""
   "C:/Users/james/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsopn.sty" 1655058192 4474 f04cd1cc7bd76eb033e6fb12eb6a0d77 ""
   "C:/Users/james/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amstext.sty" 1655058193 2444 70065bddd85997dc1fd0bb7ae634e5fa ""
+  "C:/Users/james/AppData/Local/Programs/MiKTeX/tex/latex/apacite/apacite.sty" 1374952728 74455 966b0b8d2be774cb1d3a7f97b253b725 ""
+  "C:/Users/james/AppData/Local/Programs/MiKTeX/tex/latex/apacite/english.apc" 1374952728 9643 117f2e4bc3ecf95ba216634881711ffe ""
   "C:/Users/james/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1657041432 20144 7555b7429d80bef287ebb82117811acc ""
   "C:/Users/james/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.sty" 1657041432 5048 84b05796b49b69e2d4257d537721c960 ""
   "C:/Users/james/AppData/Local/Programs/MiKTeX/tex/latex/base/size12.clo" 1657041432 8449 7fbdc9c8596083427317c1e525489c81 ""
@@ -49,10 +60,11 @@
   "C:/Users/james/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty" 1655058252 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
   "C:/Users/james/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1655058252 4023 293ea1c16429fc0c4cf605f4da1791a9 ""
   "C:/Users/james/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1656697404 31050 293f2cc98a3575c4228b5157bf850b8f ""
-  "c:/Users/james/Python-Dev/STAT_3494W/Practice_02/Manuscript/manuscript.tex" 1663862572 4015 132deeb476e68494f06f2e0459de77ef ""
+  "c:/Users/james/Python-Dev/STAT_3494W/Practice_02/Manuscript/manuscript.tex" 1663865545 4217 adf34b70c2a4d27d8497eda4d5e27a4f ""
   "cars.pdf" 1663862504 6834 16c76b9e46603b4133be845db8a21a64 ""
-  "manuscript.aux" 1663862573 610 e4a83240e5fd43ab1e1da022e307271a "pdflatex"
-  "manuscript.tex" 1663862572 4015 132deeb476e68494f06f2e0459de77ef ""
+  "manuscript.aux" 1663865549 933 02706fc522ffdaf76d0b40828a3a0bb7 "pdflatex"
+  "manuscript.bbl" 1663865549 635 31b796b8796e397a741a1ff5af5d194b "bibtex manuscript"
+  "manuscript.tex" 1663865545 4217 adf34b70c2a4d27d8497eda4d5e27a4f ""
   (generated)
   "manuscript.aux"
   "manuscript.log"

@@ -1,0 +1,27 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Srinath%
+}{%
+Srinath%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+srinath2017python}
+\APACinsertmetastar {%
+srinath2017python}%
+\begin{APACrefauthors}%
+Srinath, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Python--the fastest growing programming language}
+  {Python--the fastest growing programming language}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International Research Journal of Engineering and
+  Technology}{4}{12}{354--357}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
