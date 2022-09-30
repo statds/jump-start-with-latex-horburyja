@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.9.22)  30 SEP 2022 14:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.9.22)  30 SEP 2022 14:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -383,12 +383,16 @@ Package hyperref Info: Link coloring ON on input line 25.
  [1
 
 {C:/Users/james/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
 <cars.pdf, id=28, 433.62pt x 289.08pt>
 File: cars.pdf Graphic file (type pdf)
 <use cars.pdf>
 Package pdftex.def Info: cars.pdf  used on input line 87.
 (pdftex.def)             Requested size: 469.75502pt x 313.1854pt.
- [2] [3 <./cars.pdf>] (manuscript.bbl) [4] (manuscript.aux)
+[2] [3 <./cars.pdf>] (manuscript.bbl) [4] (manuscript.aux)
 Package rerunfilecheck Info: File `manuscript.out' has not changed.
 (rerunfilecheck)             Checksum: 1F61EDF67659E472FAED350934B96D9A;262.
  ) 
@@ -399,9 +403,9 @@ Here is how much of TeX's memory you used:
  29026 multiletter control sequences out of 15000+600000
  475893 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,8n,77p,575b,443s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,8n,77p,575b,441s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/james/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on manuscript.pdf (4 pages, 140542 bytes).
+Output written on manuscript.pdf (4 pages, 140505 bytes).
 PDF statistics:
  109 PDF objects out of 1000 (max. 8388607)
  15 named destinations out of 1000 (max. 500000)
