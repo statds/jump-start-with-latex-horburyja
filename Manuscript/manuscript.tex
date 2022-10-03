@@ -2,18 +2,19 @@
 \usepackage[utf8]{inputenc}
 
 %% preambleb
-\usepackage{amsmath}
 \usepackage[margin = 1in]{geometry}
 \usepackage{graphicx}
 \usepackage{booktabs}
-\usepackage{amsthm}
-\usepackage[colorlinks=true, citecolor=blue]{hyperref}
 \usepackage{natbib}
 \usepackage{enumitem}
 \usepackage{setspace}
+\usepackage{amsthm}
 
 % for space filling
 \usepackage{lipsum}
+
+% highlighting for hyper links
+\usepackage[colorlinks=true, citecolor=blue]{hyperref}
 
 %% metadata
 \title{LaTeX Paper Template}
@@ -31,12 +32,30 @@ One-paragraph summary of the entire study - typically no more than 250 words in 
 
 \section*{Introduction}
 \addcontentsline{toc}{section}{Introduction}
+\label{sec:intro}
+
 What is the topic and why is it worth studying? - the first major section of text in the paper, the Introduction commonly describes the topic under investigation, summarizes or discusses relevant prior research (for related details, please see the Writing Literature Reviews section of this website), identifies unresolved issues that the current research will address, and provides an overview of the research that is to be described in greater detail in the sections to follow.
 
 \lipsum[1-3]
 
+% roadmap
+The rest of the paper is organized as follows.
+The data will be presented in Section~\ref{sec:data}.
+The methods are described in Section~\ref{sec:meth}.
+The results are reported in Section~\ref{sec:resu}.
+A discussion concludes in Section~\ref{sec:disc}.
+
+\section*{Data}
+\label{sec:data}
+
+If I had any data it would definitely be here. But I don't, so instead here's some filler text:
+
+\lipsum[1]
+
 \section*{Methods}
 \addcontentsline{toc}{section}{Methods}
+\label{sec:meth}
+
 What did you do? - a section which details how the research was performed.  It typically features a description of the participants/subjects that were involved, the study design, the materials that were used, and the study procedure.  If there were multiple experiments, then each experiment may require a separate Methods section.  A rule of thumb is that the Methods section should be sufficiently detailed for another researcher to duplicate your research.
 
 \begin{equation}
@@ -44,7 +63,7 @@ What did you do? - a section which details how the research was performed.  It t
     \pi r^2.
 \end{equation}
 
-Equation~\eqref{eq:area} is written in displaystyle.\\
+Equation~\eqref{eq:area} is written in displaystyle.
 
 The following is an in-line math expression:
 \[
@@ -54,6 +73,8 @@ Specifically, it is the density of a standard normal variable.
 
 \section*{Results}
 \addcontentsline{toc}{section}{Results}
+\label{sec:resu}
+
 What did you find? - a section which describes the data that was collected and the results of any statistical tests that were performed.  It may also be prefaced by a description of the analysis procedure that was used. If there were multiple experiments, then each experiment may require a separate Results section.
 
 Table~\ref{tab:rv} summarizes some example draws from some distributions.
@@ -90,6 +111,9 @@ Figure~\ref{fig:cars} shows the distance against the speed from this dataset.
 \end{figure}
 
 \section*{Discussion}
+\addcontentsline{toc}{section}{Discussion}
+\label{sec:disc}
+
 What is the significance of your results? - the final major section of text in the paper.  The Discussion commonly features a summary of the results that were obtained in the study, describes how those results address the topic under investigation and/or the issues that the research was designed to address, and may expand upon the implications of those findings.  Limitations and directions for future research are also commonly addressed.
 
 Here is a citation to an article about how Python is the fastest growing programming language \citep{srinath2017python}.
